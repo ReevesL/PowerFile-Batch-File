@@ -18,4 +18,4 @@ Once you know the drive is working, edit the batch file with your favorite text 
 * Verify the number of disks supported by your PowerFile (200 for the model I had)
 * Verify the path to mm.exe
 
-Once you've Open cmd.exe and run the batch file.
+Once you have edited the batch file head back over to cmd.exe and run it.
